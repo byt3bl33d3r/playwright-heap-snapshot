@@ -110,3 +110,8 @@ compiling graph node object 1684179
     }
 ]
 ```
+
+## To Do
+
+- Speed things up. It's pretty slow.
+- Actually use the Pydantic models in the graph construction functions
